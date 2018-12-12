@@ -1,0 +1,32 @@
+body {
+  padding-top: 100px;
+}
+
+.navbar-default {
+  background-color: rgb(83, 102, 88);
+  border-bottom: 1px solid black;
+  color: ;
+}
+
+.navbar-default .navbar-nav>li>a {
+  padding-left: 30px;
+  color: rgb(252, 251, 122);
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+  background-color: yellow;
+}
+
+.navbar-brand {
+  padding: 0;
+  margin: 0 auto;
+  line-height: 100px;
+  /* margin: 0 auto; */
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  margin-top: 15px;
+  border: 6px solid red;
+  border-radius: 50%;
+  text-align: center;
+}
